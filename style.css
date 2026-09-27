@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+body {
+    background-image: url("hutan fantasy.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; margin: 0;
+    font-family: georgia, "times new roman", times, serif;
+    color: #222;
+
+.content {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 40px;
+    background-color: rgba(255, 255, 255, 0.90);
+    border-radius: 10px;
+    line-height: 1.8;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+p {
+    text-align: justify;
+    font-size: 17px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+<body>
+
+    <div class="content"
+}
+
